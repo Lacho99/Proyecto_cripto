@@ -1,0 +1,2 @@
+Bot_ID,Tipo,direccion,symbol,Precio_Entrada,Precio_Salida,PnL,Hora_Entrada,Hora_Cierre,Trade_Id
+BNB_Manual,MANUAL_TP,long,bnbusdt,589.56251737,589.65634295,0.0469,2026-06-20 22:54:10,2026-06-20 22:54:21,BNB_Manual_MANUAL_3_1782010450
